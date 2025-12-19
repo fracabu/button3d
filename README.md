@@ -1,31 +1,60 @@
-# 3D Button Animations
+<h1 align="center">Button3D</h1>
+<h3 align="center">Replication of 3d button by Joshua Cameau</h3>
 
-This project is a replication of the 3D button animations demonstrated by [Josh W. Comeau](https://www.joshwcomeau.com/animation/3d-button/). The buttons are crafted using HTML and CSS to create an engaging 3D effect.
+<p align="center">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS" />
+</p>
 
-## Overview
+<p align="center">
+  :gb: <a href="#english">English</a> | :it: <a href="#italiano">Italiano</a>
+</p>
 
-The repository includes:
+---
 
-- **HTML**: Structure of the buttons.
-- **CSS**: Styling to achieve the 3D appearance and animations.
+<a name="english"></a>
+## :gb: English
 
-## Features
+### Overview
 
-- 3D visual effect on buttons.
-- Smooth animations on hover and click events.
-- Customizable color schemes.
+Replication of 3d button by Joshua Cameau
 
-## Usage
+### Quick Start
 
-To view the buttons:
+```bash
+git clone https://github.com/fracabu/button3d.git
+cd button3d
+```
 
-1. Clone the repository.
-2. Open `index.html` in a web browser.
+---
 
-## Acknowledgments
+<a name="italiano"></a>
+## :it: Italiano
 
-Credit to [Josh W. Comeau](https://www.joshwcomeau.com/animation/3d-button/) for the original tutorial and design inspiration.
+### Panoramica
+
+Replication of 3d button by Joshua Cameau
+
+### Avvio Rapido
+
+```bash
+git clone https://github.com/fracabu/button3d.git
+cd button3d
+```
+
+---
+
+## Tech Stack
+
+CSS
 
 ## License
 
-This project is licensed under the MIT License.
+MIT
+
+---
+
+<p align="center">
+  <a href="https://github.com/fracabu">
+    <img src="https://img.shields.io/badge/Made_by-fracabu-8B5CF6?style=flat-square" alt="Made by fracabu" />
+  </a>
+</p>
